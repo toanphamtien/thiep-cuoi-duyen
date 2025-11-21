@@ -33,7 +33,7 @@ export const DEFAULT_WEDDING_DATA: WeddingData = {
   groomPhoto: (import.meta as any).env.BASE_URL + 'images/groom.jpg',
   bridePhoto: (import.meta as any).env.BASE_URL + 'images/bride.jpg',
   couplePhoto: (import.meta as any).env.BASE_URL + 'images/couple.jpg',
-  weddingDate: "2025-11-29",
+  weddingDate: "2025-11-29 DL",
   weddingTime: "08:30",
   locationName: "Tại tư gia nhà gái",
   locationAddress: "Thôn Bùi Thượng, xã Yết Kiêu, TP. Hải Phòng",
