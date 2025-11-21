@@ -221,6 +221,13 @@ function App() {
                    </a>
                 </div>
               </div>
+
+              <div className="mx-auto opacity-80 mb-4 text-center">
+                <p>"Chúng mình vô cùng hạnh phúc khi sắp bước sang một chương mới của cuộc đời.</p>
+                <p>Để khoảnh khắc ý nghĩa này thêm trọn vẹn, chúng mình rất mong muốn bạn có thể dành thời gian đến chung vui và cùng nhau tạo nên một buổi tiệc thật đáng nhớ.</p>
+                <p>Sự có mặt của bạn không chỉ là lời chúc phúc mà còn là niềm vui lớn nhất đối với cô dâu chú rể.</p>
+                <p>Cảm ơn bạn rất nhiều vì đã luôn đồng hành cùng chúng mình. Hẹn gặp bạn tại tiệc cưới!"</p>
+              </div>
               
               {/* Schedule Timeline */}
               <div className="border-t border-wedding-red/10 pt-10">

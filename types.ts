@@ -42,7 +42,7 @@ export const DEFAULT_WEDDING_DATA: WeddingData = {
   groomMother: "Đỗ Thị Hồng",
   brideFather: "",
   brideMother: "Đinh Thị Chuẩn",
-  invitationMessage: "Hân hạnh báo tin vui và kính mời quý khách đến dự buổi tiệc chung vui cùng gia đình chúng tôi.",
+  invitationMessage: "Hân hạnh báo tin vui và trân trọng kính mời bạn đến chung vui, chia sẻ khoảnh khắc trọng đại cùng cô dâu chú rể.",
   galleryImages: [
     (import.meta as any).env.BASE_URL + 'images/DSC03574.jpg',
     (import.meta as any).env.BASE_URL + 'images/DSC03345.jpg',
