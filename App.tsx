@@ -117,7 +117,7 @@ function App() {
            <ScrollSection className="bg-white/10 backdrop-blur-md p-8 rounded-xl border border-wedding-gold/30 shadow-2xl max-w-2xl">
               <div className="mb-4">
               <p className="text-xl md:text-2xl font-script uppercase tracking-widest mb-2 text-wedding-gold">Trân Trọng Kính Mời Tới Dự</p>
-               <h1 className="text-4xl md:text-6xl font-bold text-wedding-gold drop-shadow-lg mb-2">Lễ Thành Hôn</h1>
+               <h1 className="text-4xl md:text-6xl font-bold text-wedding-gold drop-shadow-lg mb-2">Lễ Vu Quy</h1>
                {guestName && (
                  <div className="my-4">
                    <span className="text-sm uppercase tracking-widest opacity-80">Khách mời</span>
